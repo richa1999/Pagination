@@ -1,9 +1,9 @@
 import React from 'react'
-import ImageSlider from './components/ImageSlider'
+import Pagination from './components/Pagination'
 
 const App = () => {
   return (
-    <div><ImageSlider /></div>
+    <div><Pagination /></div>
   )
 }
 
